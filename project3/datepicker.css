@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    height: 400px;
+    width: 400px;
+}
+.this_month {
+    background-color: aqua;
+}
+
+.other_month {
+    background-color: gray;
+}
+
+.first_row {
+    border: 2px solid black;
+}
