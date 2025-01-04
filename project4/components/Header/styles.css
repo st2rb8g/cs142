@@ -1,0 +1,25 @@
+#container {
+    height: 400px;
+    position: relative;
+    background-color: aqua;
+    font-family: Lucida Sans;
+    font-size: xx-large;
+
+}
+
+#animate{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background-color: red;
+    position:absolute;
+    text-align: center;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+#text {
+    background-color: yellow;
+    position: absolute;
+    white-space: nowrap;
+}
